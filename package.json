@@ -1,0 +1,11 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon customer pkgs",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "1"
+  },
+  "author": "Steven Snyder",
+  "license": "ISC"
+}
